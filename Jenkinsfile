@@ -2,28 +2,28 @@ pipeline {
     agent any
     stages {
         stage('Restore') {
-            echo 'Restoring packages'
             steps{
+                            echo 'Restoring packages'
                 sh 'dotnet restore'
             }
         }
      	stage('Build'){
-     		echo 'build project'
             steps{
+                     		echo 'build project'
                 sh 'dotnet build HelloHiApi.sln -p:Configuration=release -v:q'
             }
 
      	}
      	stage('Test'){
-     		echo 'Test project'
             steps{
+                     		echo 'Test project'
                 sh 'dotnet test HelloHiApi.Test/HelloHiApi.Test.csproj -p:Configuration=release -v:q'
                 }
 
      	}
      	stage('Publish'){
-     		echo 'publish project'
             steps{
+                     		echo 'publish project'
                 sh 'dotnet publish'
             }
 
