@@ -1,0 +1,14 @@
+C:\Users\dgupta\source\repos\HelloHiApi\HelloHiApi\bin\Debug\netcoreapp2.1\HelloHiApi.deps.json
+C:\Users\dgupta\source\repos\HelloHiApi\HelloHiApi\bin\Debug\netcoreapp2.1\HelloHiApi.runtimeconfig.json
+C:\Users\dgupta\source\repos\HelloHiApi\HelloHiApi\bin\Debug\netcoreapp2.1\HelloHiApi.runtimeconfig.dev.json
+C:\Users\dgupta\source\repos\HelloHiApi\HelloHiApi\bin\Debug\netcoreapp2.1\HelloHiApi.dll
+C:\Users\dgupta\source\repos\HelloHiApi\HelloHiApi\bin\Debug\netcoreapp2.1\HelloHiApi.pdb
+C:\Users\dgupta\source\repos\HelloHiApi\HelloHiApi\obj\Debug\netcoreapp2.1\HelloHiApi.csprojAssemblyReference.cache
+C:\Users\dgupta\source\repos\HelloHiApi\HelloHiApi\obj\Debug\netcoreapp2.1\HelloHiApi.csproj.CoreCompileInputs.cache
+C:\Users\dgupta\source\repos\HelloHiApi\HelloHiApi\obj\Debug\netcoreapp2.1\HelloHiApi.RazorAssemblyInfo.cache
+C:\Users\dgupta\source\repos\HelloHiApi\HelloHiApi\obj\Debug\netcoreapp2.1\HelloHiApi.RazorAssemblyInfo.cs
+C:\Users\dgupta\source\repos\HelloHiApi\HelloHiApi\obj\Debug\netcoreapp2.1\HelloHiApi.AssemblyInfoInputs.cache
+C:\Users\dgupta\source\repos\HelloHiApi\HelloHiApi\obj\Debug\netcoreapp2.1\HelloHiApi.AssemblyInfo.cs
+C:\Users\dgupta\source\repos\HelloHiApi\HelloHiApi\obj\Debug\netcoreapp2.1\HelloHiApi.RazorTargetAssemblyInfo.cache
+C:\Users\dgupta\source\repos\HelloHiApi\HelloHiApi\obj\Debug\netcoreapp2.1\HelloHiApi.dll
+C:\Users\dgupta\source\repos\HelloHiApi\HelloHiApi\obj\Debug\netcoreapp2.1\HelloHiApi.pdb

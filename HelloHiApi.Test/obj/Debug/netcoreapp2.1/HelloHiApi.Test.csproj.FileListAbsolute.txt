@@ -1,0 +1,17 @@
+C:\Users\dgupta\source\repos\HelloHiApi\HelloHiApi.Test\obj\Debug\netcoreapp2.1\HelloHiApi.Test.csprojAssemblyReference.cache
+C:\Users\dgupta\source\repos\HelloHiApi\HelloHiApi.Test\obj\Debug\netcoreapp2.1\HelloHiApi.Test.csproj.CoreCompileInputs.cache
+C:\Users\dgupta\source\repos\HelloHiApi\HelloHiApi.Test\obj\Debug\netcoreapp2.1\HelloHiApi.Test.AssemblyInfoInputs.cache
+C:\Users\dgupta\source\repos\HelloHiApi\HelloHiApi.Test\obj\Debug\netcoreapp2.1\HelloHiApi.Test.AssemblyInfo.cs
+C:\Users\dgupta\source\repos\HelloHiApi\HelloHiApi.Test\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\dgupta\source\repos\HelloHiApi\HelloHiApi.Test\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\dgupta\source\repos\HelloHiApi\HelloHiApi.Test\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\dgupta\source\repos\HelloHiApi\HelloHiApi.Test\bin\Debug\netcoreapp2.1\HelloHiApi.Test.deps.json
+C:\Users\dgupta\source\repos\HelloHiApi\HelloHiApi.Test\bin\Debug\netcoreapp2.1\HelloHiApi.Test.runtimeconfig.json
+C:\Users\dgupta\source\repos\HelloHiApi\HelloHiApi.Test\bin\Debug\netcoreapp2.1\HelloHiApi.Test.runtimeconfig.dev.json
+C:\Users\dgupta\source\repos\HelloHiApi\HelloHiApi.Test\bin\Debug\netcoreapp2.1\HelloHiApi.Test.dll
+C:\Users\dgupta\source\repos\HelloHiApi\HelloHiApi.Test\bin\Debug\netcoreapp2.1\HelloHiApi.Test.pdb
+C:\Users\dgupta\source\repos\HelloHiApi\HelloHiApi.Test\bin\Debug\netcoreapp2.1\HelloHiApi.dll
+C:\Users\dgupta\source\repos\HelloHiApi\HelloHiApi.Test\bin\Debug\netcoreapp2.1\HelloHiApi.pdb
+C:\Users\dgupta\source\repos\HelloHiApi\HelloHiApi.Test\obj\Debug\netcoreapp2.1\HelloHiApi.Test.csproj.CopyComplete
+C:\Users\dgupta\source\repos\HelloHiApi\HelloHiApi.Test\obj\Debug\netcoreapp2.1\HelloHiApi.Test.dll
+C:\Users\dgupta\source\repos\HelloHiApi\HelloHiApi.Test\obj\Debug\netcoreapp2.1\HelloHiApi.Test.pdb
